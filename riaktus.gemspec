@@ -16,7 +16,19 @@ Gem::Specification.new do |s|
     "README.md"
   ]
   s.files = [
-    "README.md"
+    ".rbenv-gemsets",
+    ".rbenv-version",
+    ".rspec",
+    ".ruby-version",
+    "Gemfile",
+    "Gemfile.lock",
+    "README.md",
+    "Rakefile",
+    "lib/riaktus.rb",
+    "lib/riaktus/version.rb",
+    "riaktus.gemspec",
+    "spec/riaktus/version_spec.rb",
+    "spec/spec_helper.rb"
   ]
   s.homepage = "http://github.com/asaaki/riaktus"
   s.licenses = ["MIT"]
